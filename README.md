@@ -8,12 +8,12 @@
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Aplikacija za evidenciju sadržaja knjiga. Korisnik može odabrati željeni žanr te se nakon odabira žanra otvara ekran s popisom knjiga. Nakon odabira knjige korisnik može vidjeti kratki sadržaj knjige ako ju želi pročitati ili može dati ocjenu ako je knjigu već pročitao. 
 
 ## Popis funkcionalnosti
-1. a
-2. b
-3. c
+1. a PRVI EKRAN - popis žanrova koji se nude, korisnik bira jedan od ponuđenih i klikom na botun otvara se drugi ekran
+2. b DRUGI EKRAN - popis knjiga iz odabranog žanra poredanih abecednim redom (korisnik može odabrati hoće li biti poredane prema autoru ili prema nazivu), odabirom jedne od knjiga otvara se treći ekran
+3. c TREĆI EKRAN - uvid u kratki sadržaj i mogućnost ocjenjivanja knjige(1-5)
 
 
 ## UPUTE
