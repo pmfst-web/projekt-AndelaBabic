@@ -1,12 +1,10 @@
 # Evidencija aktivnosti
-## dd.mm.2021.
+## 10.06.2023.
 Pocetak | Kraj
 ------- | ----
-hh:mm   | hh:mm
+16:30   | 22:50
 ### Kratki opis promjena
-Definirani zahtjevi aplikacije.
-Dovršena prva faza projekta.
+Nakon što sam razmislila o tome kako će aplikacija izgledati krenula sam s radom. Dodala sam 3 ekrana. Uredila sam izgled ekrana i botuna te počela sa programiranjem. Pratila sam materijale s vjezbi i prema njima krenula raditi.    
 
-## 23.12.2021.
 ### Kratki opis promjena
 Napravio sam navigaciju
